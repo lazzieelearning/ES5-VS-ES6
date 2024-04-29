@@ -118,7 +118,7 @@ module import & export:
     export module a
     export module b
     import { add, multiply } from './moduleA';
-    import sub from './moduleB';
+    import greet from './moduleB';
 
 Class in Javascript:
 	It supports object-oriented programming concepts. While JavaScript still follows a prototype-based inheritance model, classes provide a more familiar and syntactically convenient way to create and extend objects.
